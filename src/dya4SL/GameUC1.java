@@ -3,12 +3,7 @@ package dya4SL;
 public class GameUC1 {
 
 	public static void main(String[] args) {
-
-
-			
-				// TODO Auto-generated method stub
-
-		      System.out.println("Welcome to Snake ladder Game");
+            System.out.println("Welcome to Snake ladder Game");
 
 		      System.out.println("Welcome to Snake and Ladder simulator");
 				int playerPosition = 0;	
@@ -22,6 +17,6 @@ public class GameUC1 {
 		}
 	
 
-	}
+}
 
 
