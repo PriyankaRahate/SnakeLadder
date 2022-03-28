@@ -2,7 +2,7 @@ package dya4SL;
 
 import java.util.Scanner;
 
-public class NoPlayUC3 {
+public class WinningUC5 {
 	public static final int winningPosition = 100;
 	public static void main(String[] args) {
 		
